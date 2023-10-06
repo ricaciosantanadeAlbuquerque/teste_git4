@@ -10,7 +10,7 @@ void main() {
 
   calculadora1.agregado.soma();
   print('');
- calculadora1.componente.soma();
+  calculadora1.componente.soma();
   print('');
   calculadora2.agregado.soma();
 }
