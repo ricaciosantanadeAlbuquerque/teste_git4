@@ -30,4 +30,4 @@ _Checkout **tela de produto**, Catálogo Home banner_
 
 #### Imagem local
 
-![Celular](assets\image\fundo.jpeg)
+![Celular](assets/image/fundo.jpeg)
