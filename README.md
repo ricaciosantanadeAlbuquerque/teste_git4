@@ -1,2 +1,8 @@
-# teste_git4
-Praticando o rebase a criação de issues e de pull requests
+# E-commerce empresa X
+vamos criar um  e-commerce para e empresa X 
+
+## Funcionalidades
+
+Checkout tela de produto, Catálogo Home banner
+
+###### Melhorias do projeto
