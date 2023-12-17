@@ -39,3 +39,5 @@ _Checkout **tela de produto**, Catálogo Home banner_
 ## Links interessantes:
 
 [Google](https://www.google.com.br/?hl=pt-BR)
+
+[https://www.google.com.br/?hl=pt-BR](https://www.google.com.br/?hl=pt-BR)
