@@ -62,4 +62,4 @@ void soma(int valor,int valor2){
 - [x] cadastrar produto
 - [] deletar produto
 - [] selecionar Data
-- [] exibir gráfico de gastos semanais
+- [x] exibir gráfico de gastos semanais
