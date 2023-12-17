@@ -56,3 +56,10 @@ void soma(int valor,int valor2){
 }
 
 ```
+
+##### lista de checagem
+
+- [x] cadastrar produto
+- [] deletar produto
+- [] selecionar Data
+- [] exibir gráfico de gastos semanais
