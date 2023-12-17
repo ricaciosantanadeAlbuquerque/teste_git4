@@ -27,3 +27,7 @@ _Checkout **tela de produto**, Catálogo Home banner_
     3. css diferente para grupos de clientes
 2. Integração com outros pagamentos
 3. Sistema de bônus primeira  compra
+
+#### Imagem local
+
+![Celular](assets\image\fundo.jpeg)
