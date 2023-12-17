@@ -31,3 +31,7 @@ _Checkout **tela de produto**, Catálogo Home banner_
 #### Imagem local
 
 ![Celular](assets/image/fundo.jpeg)
+
+#### Imagem da web
+
+![carro](https://www.cnnbrasil.com.br/wp-content/uploads/sites/12/2023/02/221223090506-01-bugatti-chiron-profilee.jpg?w=1200&h=900&crop=1)
